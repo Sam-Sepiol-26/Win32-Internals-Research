@@ -8,9 +8,9 @@ This repository serves as a practical, hands-on laboratory for exploring the bou
 
 | Date | Project-Name | Core concepts | Description |
 |------|-------------|------------------|-------------|
-| 2026-05-08 | The Active Process Enumerator | Process snapshots, process tracking, system enumeration | A custom process discovery tool that bypasses high-level wrappers to map the live environment. |
-| 2026-05-16 | M3m0ry_P33k3r (Remote PE Parser) | Virtual memory space mapping, DOS/NT header parsing, Address of Entry Point (AoEP) calculation, Hex dumping live assembly. | An advanced memory scanner that targets an active process, dynamically parses its remote headers in RAM, and extracts executable machine code instructions straight from the entry point. |
-| 2026-06-04 | C0mp1l3_T1m3st4mp_3xtr4ct0r | File alignment vs. Section alignment, Epoch time conversion, PE static analysis.| A runtime analysis tool that attaches to a live, active process in memory, traverses its running NT header structures, and isolates the compiler `TimeDateStamp` field directly from RAM to audit binary metadata dynamically. |
+| 2026-06-19 | The Active Process Enumerator | Process snapshots, process tracking, system enumeration | A custom process discovery tool that bypasses high-level wrappers to map the live environment. |
+| 2026-06-21 | M3m0ry_P33k3r (Remote PE Parser) | Virtual memory space mapping, DOS/NT header parsing, Address of Entry Point (AoEP) calculation, Hex dumping live assembly. | An advanced memory scanner that targets an active process, dynamically parses its remote headers in RAM, and extracts executable machine code instructions straight from the entry point. |
+| 2026-06-25 | C0mp1l3_T1m3st4mp_3xtr4ct0r | File alignment vs. Section alignment, Epoch time conversion, PE static analysis.| A runtime analysis tool that attaches to a live, active process in memory, traverses its running NT header structures, and isolates the compiler `TimeDateStamp` field directly from RAM to audit binary metadata dynamically. |
 
 ---
 
