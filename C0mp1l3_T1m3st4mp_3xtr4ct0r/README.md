@@ -34,7 +34,8 @@ gcc src/main.c -I include -o bin/C0mp1l3_T1m3st4mp_3xtr4ct0r.exe
 
 
 ### Verification (DOS Stub)
-<img width="1801" height="682" alt="dosStub" src="https://github.com/user-attachments/assets/e728ff97-5366-44c1-a0d9-e94fd83fff80" />
+<img width="1801" height="682" alt="dosStub" src="https://github.com/user-attachments/assets/34d56081-a471-4040-b3dd-877b20aec3b4" />
+
 
 
 
