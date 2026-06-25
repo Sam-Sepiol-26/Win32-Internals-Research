@@ -29,7 +29,7 @@ To compile the modular structure via the command line, execute:
 gcc src/main.c -I include -o bin/The Active Process Enumerator.exe
 ```
 
-### Execution:
+### Execution
 <img width="875" height="850" alt="output" src="https://github.com/user-attachments/assets/efcb31ff-a8a9-48c4-8e11-e313db92642c" />
 
 
