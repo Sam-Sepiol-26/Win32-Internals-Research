@@ -6,7 +6,7 @@ A runtime analysis tool that attaches to a live, active process in memory, trave
 
 ## Architectural Overview
 
-Rather than inspecting Portable Executable files on disk, C0mp1l3_T1m3st4mp_3xtr4ct0r targets a live process and navigates its in-memory PE structures. It resolves the NT headers within the executing image and reads the compiler TimeDateStamp field directly from runtime memory, demonstrating metadata extraction from an active process rather than a static binary.
+Rather than inspecting Portable Executable files on disk, `C0mp1l3_T1m3st4mp_3xtr4ct0r` targets a live process and navigates its in-memory PE structures. It resolves the NT headers within the executing image and reads the compiler TimeDateStamp field directly from runtime memory, demonstrating metadata extraction from an active process rather than a static binary.
 
 
 ---
