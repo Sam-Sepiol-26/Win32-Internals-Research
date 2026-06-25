@@ -5,7 +5,7 @@ A low-level memory forensics and diagnostic utility written in native C. This to
 ---
 
 ## Architectural Overview
-Unlike static PE parsers that analyze files on disk via raw offsets, **M3m0ry P33k3r** operates entirely within runtime memory. It maps process spaces and translates Relative Virtual Addresses (RVAs) into absolute virtual addresses to read data directly from executing memory blocks.
+Unlike static PE parsers that analyze files on disk via raw offsets, `M3m0ry P33k3r` operates entirely within runtime memory. It maps process spaces and translates Relative Virtual Addresses (RVAs) into absolute virtual addresses to read data directly from executing memory blocks.
 
 
 
@@ -29,7 +29,7 @@ To compile the modular structure via the command line, execute:
 gcc src/main.c -I include -o bin/M3m0ryP33k3r.exe
 ```
 
-### Execution:
+### Execution
 <img width="1786" height="742" alt="output" src="https://github.com/user-attachments/assets/a96463e9-9eb1-4d95-a134-834b7ad7a113" />
 
 
