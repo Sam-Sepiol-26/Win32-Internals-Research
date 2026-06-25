@@ -30,5 +30,6 @@ gcc src/main.c -I include -o bin/M3m0ryP33k3r.exe
 ```
 
 ### Execution:
-<img width="1786" height="742" alt="output" src="https://github.com/user-attachments/assets/fe84a027-59a8-4256-9cbc-92c67adcf429" />
+<img width="1786" height="742" alt="output" src="https://github.com/user-attachments/assets/a96463e9-9eb1-4d95-a134-834b7ad7a113" />
+
 
