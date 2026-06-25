@@ -6,7 +6,7 @@ A custom process discovery tool that bypasses high-level wrappers to map the liv
 
 ## Architectural Overview
 
-Unlike graphical task management utilities that abstract process information, The Active Process Enumerator interfaces directly with native Windows APIs to capture a live snapshot of the system's active processes. It iterates through each process entry, extracts the Process Identifier (PID) and executable name, and presents a real-time view of the currently executing processes.
+Unlike graphical task management utilities that abstract process information, `The Active Process Enumerator` interfaces directly with native Windows APIs to capture a live snapshot of the system's active processes. It iterates through each process entry, extracts the Process Identifier (PID) and executable name, and presents a real-time view of the currently executing processes.
 
 
 ---
